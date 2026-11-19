@@ -6,7 +6,7 @@ The application allows users to convert temperatures between Celsius, Fahrenheit
 
 ## 🚀 Live Demo
 
-[View Live Demo](YOUR_LIVE_DEMO_LINK)
+[View Live Demo](https://vedika-mishra261.github.io/Temperature-converter/)
 
 ## 📂 GitHub Repository
 
