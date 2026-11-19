@@ -10,7 +10,7 @@ The application allows users to convert temperatures between Celsius, Fahrenheit
 
 ## 📂 GitHub Repository
 
-[View Source Code](YOUR_GITHUB_REPOSITORY_LINK)
+[View Source Code](https://github.com/Vedika-Mishra261/Temperature-converter)
 
 ## ✨ Features
 
